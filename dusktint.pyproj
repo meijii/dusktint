@@ -43,14 +43,18 @@
     <Folder Include="dusktint\static\fonts\icomoon\" />
     <Folder Include="dusktint\static\fonts\icomoon\demo-files\" />
     <Folder Include="dusktint\static\fonts\icomoon\fonts\" />
+    <Folder Include="dusktint\static\images\" />
     <Folder Include="dusktint\static\scripts\" />
     <Folder Include="dusktint\templates\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="dusktint\static\content\aos.css" />
     <Content Include="dusktint\static\content\bootstrap-datepicker.css" />
+    <Content Include="dusktint\static\content\bootstrap.min.css.map" />
     <Content Include="dusktint\static\content\jquery-ui.css" />
     <Content Include="dusktint\static\content\jquery.fancybox.min.css" />
+    <Content Include="dusktint\static\content\magnific-popup.css" />
+    <Content Include="dusktint\static\content\mediaelementplayer.css" />
     <Content Include="dusktint\static\content\owl.carousel.min.css" />
     <Content Include="dusktint\static\content\owl.theme.default.min.css" />
     <Content Include="dusktint\static\content\style.css" />
@@ -95,7 +99,6 @@
     <Content Include="requirements.txt" />
     <Content Include="dusktint\static\content\bootstrap.css" />
     <Content Include="dusktint\static\content\bootstrap.min.css" />
-    <Content Include="dusktint\static\content\site.css" />
     <Content Include="dusktint\static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="dusktint\static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="dusktint\static\fonts\glyphicons-halflings-regular.ttf" />
